@@ -1,0 +1,47 @@
+2017/05/22 23:08:47 open c:\Config.Msi: Access is denied.
+2017/05/22 23:08:47 open c:\$Recycle.Bin\S-1-5-18: Access is denied.
+2017/05/22 23:08:47 open c:\Documents and Settings: Access is denied.
+2017/05/22 23:08:47 open c:\$Recycle.Bin\S-1-5-21-1066351124-1571448836-1262111941-500: Access is denied.
+2017/05/22 23:08:47 open c:\PerfLogs: Access is denied.
+2017/05/22 23:08:47 open c:\ProgramData\Application Data: Access is denied.
+2017/05/22 23:08:47 open c:\System Volume Information: Access is denied.
+2017/05/22 23:08:47 open c:\Recovery\Logs: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default User: Access is denied.
+2017/05/22 23:08:47 open c:\Users\All Users\Application Data: Access is denied.
+2017/05/22 23:08:47 open c:\ProgramData\Documents: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default\Application Data: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default\Cookies: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default\AppData\Local\Application Data: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default.migrated\Documents\My Music: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default\AppData\Local\History: Access is denied.
+2017/05/22 23:08:47 open c:\Program Files (x86)\Google\CrashReports: Access is denied.
+2017/05/22 23:08:47 open c:\Users\All Users\Documents: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default.migrated\Documents\My Pictures: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default\Documents\My Music: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default\Documents\My Pictures: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default.migrated\AppData\Local\Microsoft\Windows\Temporary Internet Files: Access is denied.
+2017/05/22 23:08:47 open c:\ProgramData\Dell\SARemediation: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default\Documents\My Videos: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Public\Documents\My Music: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default.migrated\Documents\My Videos: Access is denied.
+2017/05/22 23:08:47 open c:\Windows\CSC\v2.0.6: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default\Local Settings: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default.migrated\AppData\Roaming\Microsoft\Windows\Start Menu\程序: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Public\Documents\My Pictures: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Default\AppData\Local\Temporary Internet Files: Access is denied.
+2017/05/22 23:08:47 open c:\Users\Public\Documents\My Videos: Access is denied.
+2017/05/22 23:08:48 open c:\Users\Default\My Documents: Access is denied.
+2017/05/22 23:08:48 open c:\Users\Default.migrated\「开始」菜单: Access is denied.
+2017/05/22 23:08:48 open c:\Users\All Users\Dell\SARemediation: Access is denied.
+2017/05/22 23:08:48 open c:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\程序: Access is denied.
+2017/05/22 23:08:48 open c:\Users\Default\AppData\Local\Microsoft\Windows\Temporary Internet Files: Access is denied.
+2017/05/22 23:08:48 open c:\Users\stefaman\Application Data: Access is denied.
+2017/05/22 23:08:48 open c:\Users\Default\NetHood: Access is denied.
+2017/05/22 23:08:48 open c:\Program Files\Windows NT\附件: Access is denied.
+2017/05/22 23:08:48 open c:\ProgramData\Microsoft\Crypto\PCPKSP\WindowsAIK: Access is denied.
+panic: test
+
+goroutine 1 [running]:
+main.main()
+	C:/coder/golang/src/gopl.io/ch8/e8.9_v2.go:65 +0x340
+exit status 2

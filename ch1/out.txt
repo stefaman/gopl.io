@@ -1,0 +1,5 @@
+0.03s   102100  http://www.baidu.com
+Get http://baidu.com: read tcp 10.0.0.8:58890->123.125.114.144:80: read: connection reset by peer
+Get http://baidu.com: read tcp 10.0.0.8:58892->123.125.114.144:80: read: connection reset by peer
+0.25s     3213  http://g.cn
+0.25s elapsed
